@@ -380,15 +380,6 @@ If you are also preparing for IELTS and find this repo useful:
 - 🐛 **Issues** — let me know if you spot a mistake or have a suggestion
 
 ---
-
-## 📬 Connect
-
-<!-- Add your links here -->
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your@email.com
-
----
-
 ## 📜 License
 
 All content in this repository consists of my own personal notes and study materials.
