@@ -1,4 +1,4 @@
-# 🎯 IELTS 8.5 Band — Complete Study Repository
+#  IELTS 8.5 Band — Complete Study Repository
 
 > **An 8-month structured journey from any level to Band 8.5**
 > Updated daily · Covers all four sections · Real resources only
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 What is this Repository?
+##  What is this Repository?
 
 This is my **personal IELTS preparation repository** where I document my complete 8-month journey toward Band 8.5.
 
@@ -24,7 +24,7 @@ Every day's notes, practice files, mistakes, resources, and progress scores are 
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 ielts-8.5-roadmap/
@@ -391,6 +391,5 @@ Free to use for your own IELTS preparation — just give credit if you share it 
 
 **"8 months of consistency is all it takes to reach 8.5."**
 
-Made with ❤️ and ☕ · Updated daily · Started [Month Year]
 
 </div>
